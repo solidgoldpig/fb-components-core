@@ -1,0 +1,28 @@
+{
+  "name": "@solidgoldpig/fb-components-core",
+  "specifications": {
+    "$idRoot": "http://gov.uk/schema/v1.0.0",
+    "protected": [
+      "condition"
+    ]
+  },
+  "version": "3.1.0-4",
+  "description": "Form Builder core components",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-specifications"
+  },
+  "dependencies": {
+    "govuk-frontend": "3.1.0"
+  },
+  "devDependencies": {
+    "@solidgoldpig/fb-specification": "^0.3.5",
+    "npm-run-all": "^4.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solidgoldpig/fb-components-core.git"
+  },
+  "author": "github@alex.solidgoldpig.com",
+  "license": "MIT"
+}
