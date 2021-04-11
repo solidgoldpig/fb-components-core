@@ -6,7 +6,7 @@
       "condition"
     ]
   },
-  "version": "3.2.0-2",
+  "version": "3.2.0-38",
   "description": "Form Builder core components",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "govuk-frontend": "3.11.0",
-    "@ministryofjustice/frontend": "0.0.19"
+    "@ministryofjustice/frontend": "0.2.2"
   },
   "devDependencies": {
     "@solidgoldpig/fb-specification": "^0.3.5",
