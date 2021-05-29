@@ -8,7 +8,7 @@
       "title": "URL",
       "description": "The page’s relative url - it must not contain any spaces",
       "type": "string",
-      "pattern": "^[\\w-_\/]+$"
+      "pattern": "^[\\w-_:\/]+$"
     },
     "heading": {
       "title": "Heading",
